@@ -74,13 +74,13 @@ Pillow==9.5.0
 git clone https://github.com/GKirik/Py_Project.git
 
 # 2. Распакуйте в нужную папку
-cd microstrip-antenna-calculator
+cd Py_Project
 
 # 3. Установите зависимости
-pip install numpy scipy matplotlib pillow
+pip install -r requirements.txt
 
 # 4. Запустите программу
-python antenna_calculator.py
+v5.py
 ```
 
 ## Инструкция по работе
