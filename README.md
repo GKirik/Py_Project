@@ -1,4 +1,4 @@
-# Microstrip Patch Antenna Calculator
+# Калькулятор прямоугольной микрополосковой патч-антенны
 
 <div align="center">
 
