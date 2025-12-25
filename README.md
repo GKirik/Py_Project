@@ -38,7 +38,7 @@
 
 Расчитать параметры микрополосковой патч-антенны под заданную рабочую частоту.
 
-<img width="901" height="595" alt="image" src="https://github.com/user-attachments/assets/5ccda44e-23ba-4903-9081-ac8bf042fad7" />
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/5ccda44e-23ba-4903-9081-ac8bf042fad7" />
 
 
 ### Рассчитываемые параметры:
